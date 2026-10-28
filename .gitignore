@@ -1,0 +1,18 @@
+# Build-Verzeichnisse
+cmake-build-*/
+build/
+
+# Ausführbare Dateien
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+*.lib
+
+# CLion / JetBrains
+.idea/
+
+# Temporäre Dateien
+*.tmp
+*.log
